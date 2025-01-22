@@ -1,0 +1,13 @@
+player_dies.mp3
+	https://opengameart.org/content/8-bit-sound-effects-library
+
+sfx_switch.ogg
+	
+bubble_pop
+	https://opengameart.org/content/bubbles-pop
+
+bubble_out
+	https://opengameart.org/content/bubble-sound-effects
+
+fire.mp3
+	https://opengameart.org/content/fireplace-sound-loop

@@ -1,0 +1,3 @@
+-- images --
+fire_red, fire_blue, fire_green
+	https://stealthix.itch.io/animated-fires
